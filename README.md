@@ -6,4 +6,4 @@ movies.
 • The Application is based on API. It fetches data
 from IMDB API
 
-Website is live at https://anshulkumar.netlify.app/
+Website is live at --> https://movie-application12.netlify.app/
